@@ -1,0 +1,289 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Cormorant+Garamond:wght@300&display=swap");
+body {
+  background-color: rgb(224, 224, 218);
+  margin: 0;
+}
+
+.aa1 {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.479);
+  width: 100%;
+  height: 50px;
+  /* background-color: aquamarine; */
+  position: relative;
+}
+
+
+.void {
+  margin-top: 50px;
+}
+
+.a22 {
+  width: 100%;
+  height: 50px;
+}
+
+.a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.479);
+  position: absolute;
+}
+
+.a:hover{
+    color: crimson;
+}
+
+.a1 {
+  left: 70%;
+}
+.a2 {
+  left: 80%;
+}
+.a3 {
+  left: 90%;
+}
+.b1 {
+  height: 40px;
+  width: 100px;
+  border-style: none; /* color: white; */
+}
+
+.q1 {
+  width: 100%;
+  align-items: center;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: space-between;
+}
+
+.q2 {
+  /* margin-top: 20px; */
+  position: sticky;
+  top: 0px;
+  height: 100px;
+  width: 100%;
+  background-color: rgb(224, 224, 218);
+}
+
+.c9 {
+  height: 50px;
+  width: 90px;
+}
+
+.c1 {
+  margin-left: 100px;
+  text-align: center;
+}
+.c2 {
+  margin-right: 200px;
+  border: 1px rgba(0, 0, 0, 0.464) solid;
+  background-color: white;
+  /* border-bottom: 1px; */
+}
+
+.c3 {
+  /* margin-top: 50px; */
+  margin-right: 347px;
+  /* padding-right: 0px; */
+}
+
+.c4 {
+  margin-right: -80px;
+}
+
+.c4:hover{
+    color: crimson;
+}
+.c5 {
+  margin-right: 100px;
+}
+.c5:hover{
+    color: crimson;
+}
+
+
+.hoi {
+  margin-top: 90px;
+  text-align: center;
+  font-family: "Cinzel", serif;
+  color: rgba(0, 0, 0, 0.751);
+}
+.poi {
+  color: rgba(1, 1, 1, 0.56);
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+
+.poi-1 {
+  color: rgba(1, 1, 1, 0.56);
+  text-decoration: none;
+  border-bottom: 2px rgba(1, 1, 1, 0.56) solid;
+}
+
+.poi-1:hover {
+  border-bottom: none;
+  color: crimson;
+}
+
+.vid1 {
+  width: 95%;
+  height: auto;
+}
+
+.vidy {
+  margin-left: 200px;
+  margin-right: 100px;
+}
+
+.mm1 {
+    width: 80%;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 20%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.m1 {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+  transition: .5s ease-in-out;
+
+}
+
+.m1:hover {
+transform:scale(1.1)
+}
+
+.hh1 {
+  color: rgba(1, 1, 1, 0.56);
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+
+.toe-1 {
+  color: rgba(1, 1, 1, 0.56);
+  /* height: 400px; */
+  font-family: "Cormorant Garamond", serif;
+  position: absolute;
+  text-align: center;
+  /* float: right; */
+}
+
+.tok {
+  background-color: white;
+  height: 500px;
+  display: flex;
+  margin-top: 100px;
+  justify-content: space-around;
+  border: rgba(0, 0, 0, 0.242) 1px solid;
+}
+
+.toe-1 {
+  margin-top: 100px;
+  height: 300px;
+  width: 600px;
+  /* background-color: aqua; */
+  margin-right: 700px;
+}
+
+.toe-2 {
+  margin-top: 100px;
+  margin-left: 700px;
+  height: 300px;
+  width: 600px;
+  align-items: center;
+  /* background-color: rgb(58, 151, 87); */
+}
+
+.k1 {
+  color: rgb(1, 1, 1);
+  text-align: center;
+  font-family: "Cormorant Garamond", serif;
+}
+
+.ko {
+  padding-left: 200px;
+  color: rgb(1, 1, 1);
+  text-align: center;
+  /* text-decoration: none; */
+  font-family: "Cormorant Garamond", serif;
+}
+.k11 {
+  padding-left: 250px;
+  color: rgb(1, 1, 1);
+  /* text-decoration: none; */
+  font-family: "Cormorant Garamond", serif;
+}
+
+.last {
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  background-color: white;
+}
+
+.last-1 {
+  padding-top: 100px;
+  font-family: "Cormorant Garamond", serif;
+}
+
+.finish {
+  /* align-items:baseline; */
+  height: 200px;
+  position: relative;
+  padding-top: 100px;
+  background-color: white;
+}
+
+.fin {
+  position: absolute;
+  left: 150px;
+  top: 30px;
+}
+
+.fin-2 {
+  margin-right: 100px;
+  padding: 20px;
+  display: flex;
+  justify-content: right;
+}
+
+.fi-1:hover {
+  color: crimson;
+}
+.fi-2:hover {
+  color: crimson;
+}
+.fi-3:hover {
+  color: crimson;
+}
+.fi-4:hover {
+  color: crimson;
+}
+
+.fin-1 {
+  position: absolute;
+  left: 260px;
+  top: 10px;
+}
+
+.end {
+  text-align: center;
+  /* height: 50px;
+    width: 90px; */
+}
+
+.end-1 {
+  text-align: center;
+  height: 50px;
+  width: 90px;
+}
+
+.rr {
+  background-color: white;
+  margin-top: -10px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
